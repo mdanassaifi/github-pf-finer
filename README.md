@@ -31,6 +31,6 @@
 
 
 
-![](https://github.com/gauravpatil97886/githubprofilefinder.github.io/blob/main/img/github%20profiule.jpg)
+
 <img src="img/github profile img.png"/>
 
