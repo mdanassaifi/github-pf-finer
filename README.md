@@ -6,7 +6,7 @@
 
   **The Github Profile Finder is a small, open-source project that makes it easy for you to discover other GitHub users based on their GitHub username. Simply type your GitHub username into the search box, and you'll be presented with information about the user you searched for and numerous links to his or her most recent projects**.
 -----------------
-### Live Demo
+### Live Demo https://mdanassaifi.github.io/github-pf-finer/
 
 
 -----------------------
